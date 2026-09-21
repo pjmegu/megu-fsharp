@@ -1,4 +1,6 @@
-﻿open System.CommandLine
+﻿module Megu.App
+
+open System.CommandLine
 open System.IO
 
 let exec script =
